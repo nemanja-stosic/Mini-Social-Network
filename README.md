@@ -1,7 +1,7 @@
 # Mini-Social-Network
 
 Like the name says it's a mini social network web application that has the functionality to register a user, let him log in, and then he can add friends.
-This web application uses hibernate framework to save users that register on web site and to save added friends to the friendliest in the MySQL database.
+This web application uses hibernate framework to save users that register on web site and to save added friend's to the friends list in the MySQL database.
 
 Also, the Struts framework was implemented to achieve described functionality. Struts is an open-source framework that extends the Java Servlet API and employs a Model, View, Controller (MVC) architecture.
 
